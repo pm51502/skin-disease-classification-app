@@ -1,1 +1,0 @@
-# skin-disease-classification-app
